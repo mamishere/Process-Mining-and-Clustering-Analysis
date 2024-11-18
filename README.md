@@ -1,12 +1,12 @@
 # Process Mining with Real World Financial Loan Applications: Improving Inference on Incomplete Events
 
-<p align="center">
-  <img src="./Banner.png" alt="Banner">
-</p>
-
 The financial sector often grapples with complex processes involving large datasets that record every step of business operations. One such domain is loan application processing, where event logs capture the interactions between customers and institutions. However, these event logs are frequently incomplete, leading to challenges in understanding, optimizing, and validating business processes. This project addresses these issues by leveraging process mining techniques and machine learning to analyze real-world financial loan applications.
 
 By adopting open-source tools such as PM4Py and Scikit-Learn, this project not only replicates traditional methodologies but also extends them to uncover deeper insights. The goal is to improve process inference, even with incomplete or noisy event data, and provide actionable recommendations to enhance efficiency and compliance.
+
+<p align="center">
+  <img src="./Banner.png" alt="Banner">
+</p>
 
 This project is inspired by and builds upon the methodologies presented in the following paper:</br>
 *Analyzing Application Process for a Personal Loan or Overdraft of Dutch Financial Institute with Process Mining Techniques*
